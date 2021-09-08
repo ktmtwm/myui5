@@ -1,3 +1,3 @@
-@Library('piper-lib-os@v1.34.0') _
+@Library('piper-lib-os') _
 
 fioriOnCloudPlatformPipeline script:this
