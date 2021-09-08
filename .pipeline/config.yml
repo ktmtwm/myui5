@@ -10,5 +10,5 @@ steps:
     cloudFoundry:
       apiEndpoint: 'https://api.cf.us10.hana.ondemand.com' # default: 'https://api.cf.eu10.hana.ondemand.com'
       org: '89a9c4f3trial'
-      space: 'dev'
-      credentialsId: '8aac624b-4c11-4327-90be-2064d81be2c3'
+      space: 'test'
+      # credentialsId: '8aac624b-4c11-4327-90be-2064d81be2c3'
